@@ -1,0 +1,514 @@
+.vende-vende {
+    width: 100%;
+    height: 1932px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .vende-rectangle8 {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 1753px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .vende-product {
+    top: 1382px;
+    left: 266px;
+    width: 827.9999389648438px;
+    height: 215px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .vende-productimg {
+    top: 0px;
+    left: 0px;
+    width: 267.0967712402344px;
+    border: 2px dashed rgba(120, 120, 120, 0.4);
+    height: 215px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(183, 169, 169, 1);
+  }
+  .vende-rectangle14 {
+    top: 0px;
+    left: 373.9354248046875px;
+    width: 454px;
+    height: 215px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .vende-text {
+    left: 381.0582580566406px;
+    color: rgba(0, 0, 0, 1);
+    width: 87px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .vende-text02 {
+    top: 95.31671905517578px;
+    left: 381.9483337402344px;
+    color: rgba(0, 0, 0, 1);
+    width: 86px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .vende-text04 {
+    top: 131.86680603027344px;
+    left: 381.9483337402344px;
+    color: rgba(0, 0, 0, 1);
+    width: 259px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .vende-text06 {
+    top: 36.55008316040039px;
+    left: 381.9483337402344px;
+    color: rgba(0, 0, 0, 1);
+    width: 353px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .vende-product1 {
+    top: 714px;
+    left: 263px;
+    width: 831.3548583984375px;
+    height: 246px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .vende-productimg1 {
+    top: 0px;
+    left: 0px;
+    width: 269.0322570800781px;
+    border: 2px dashed rgba(120, 120, 120, 0.4);
+    height: 246px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(183, 169, 169, 1);
+  }
+  .vende-rectangle141 {
+    top: 0px;
+    left: 374px;
+    width: 457px;
+    height: 246px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .vende-text08 {
+    left: 383.8195495605469px;
+    color: rgba(0, 0, 0, 1);
+    width: 88px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .vende-text10 {
+    top: 109.0601577758789px;
+    left: 384.7160949707031px;
+    color: rgba(0, 0, 0, 1);
+    width: 87px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .vende-text12 {
+    top: 150.88003540039062px;
+    left: 384.7160949707031px;
+    color: rgba(0, 0, 0, 1);
+    width: 261px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .vende-text14 {
+    top: 41.81987380981445px;
+    left: 384.7160949707031px;
+    color: rgba(0, 0, 0, 1);
+    width: 355px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .vende-product2 {
+    top: 1049px;
+    left: 269px;
+    width: 827.9999389648438px;
+    height: 244px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .vende-productimg2 {
+    top: 0px;
+    left: 0px;
+    width: 267.0967712402344px;
+    border: 2px dashed rgba(120, 120, 120, 0.4);
+    height: 244px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(183, 169, 169, 1);
+  }
+  .vende-rectangle142 {
+    top: 0px;
+    left: 373.9354248046875px;
+    width: 454px;
+    height: 244px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .vende-text16 {
+    left: 381.0582580566406px;
+    color: rgba(0, 0, 0, 1);
+    width: 87px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .vende-text18 {
+    top: 108.17337036132812px;
+    left: 381.9482421875px;
+    color: rgba(0, 0, 0, 1);
+    width: 86px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .vende-text20 {
+    top: 172px;
+    left: 382px;
+    color: rgba(0, 0, 0, 1);
+    width: 259px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .vende-text22 {
+    top: 41.480194091796875px;
+    left: 381.9482421875px;
+    color: rgba(0, 0, 0, 1);
+    width: 353px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .vende-info-vend {
+    top: 204px;
+    left: 0px;
+    width: 1368px;
+    height: 346px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(164, 143, 143, 1);
+  }
+  .vende-text24 {
+    top: 81px;
+    left: 413px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .vende-ellipse2 {
+    top: 61px;
+    left: 137px;
+    width: 170px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .vende-text26 {
+    top: 349px;
+    left: 417px;
+    color: rgba(255, 255, 255, 1);
+    width: 720px;
+    height: auto;
+    position: absolute;
+    font-size: 48px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .vende-group16 {
+    top: 1761px;
+    left: 413px;
+    width: 262px;
+    height: 114px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(163, 197, 158, 1);
+  }
+  .vende-text28 {
+    top: 24px;
+    left: 32px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 48px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .vende-group17 {
+    top: 1759px;
+    left: 703px;
+    width: 262px;
+    height: 114px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(163, 197, 158, 1);
+  }
+  .vende-text30 {
+    top: 26px;
+    left: 49px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 48px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  
